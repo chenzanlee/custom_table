@@ -1,8 +1,3 @@
-/* $(function(){
- onmouse();
-
- }) */
-
 (function() {
 	window.Table = Table;
 
